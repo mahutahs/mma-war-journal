@@ -1,0 +1,22 @@
+{
+  "name": "mma-war-journal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahutahs/mma-war-journal.git"
+  },
+  "author": "Mahuta Hoerara-Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahutahs/mma-war-journal/issues"
+  },
+  "homepage": "https://github.com/mahutahs/mma-war-journal#readme",
+  "devDependencies": {
+    "mma": "^0.2.0"
+  }
+}
